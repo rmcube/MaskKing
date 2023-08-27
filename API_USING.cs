@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Networking;
+using System.Collections;
 
 [System.Serializable]
 public class Response
